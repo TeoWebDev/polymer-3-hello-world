@@ -1,0 +1,9 @@
+{
+  "name": "polymer-3-hello-world",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@polymer/polymer": "3.0.0-pre.12",
+    "@webcomponents/webcomponentsjs": "1.2.0"
+  }
+}
